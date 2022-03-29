@@ -6,7 +6,7 @@
 ##### 🔓Ask me about anything related to frontend and i'll be happy to assist
 ##### 💌Reach me at: markeisha94@gmail.com
 
-##### Fun Fact: Aside from coding, I enjoy studying astrology and languages
+##### Fun Fact: Aside from coding, I enjoy studying astrology and learning different languages
 
 
 
