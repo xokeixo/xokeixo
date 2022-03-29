@@ -1,10 +1,14 @@
-### Hi there 👋
+### welcome 👋
+#### software developer
 
-<!--
-**xokeixo/xokeixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### 👩🏾‍💻currently working on an app thats very special to me
+###### 📈i'm currently learning data structure and algorithms
+###### 🔓ask me about anything related to frontend and i'll be happy to assist
+###### 💌reach me at: markeisha94@gmail.com
 
-Here are some ideas to get you started:
+##### fun fact: aside from coding, i enjoy astrology
 
+<--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![Markeisha's's GitHub stats](https://github-readme-stats.vercel.app/api?username=xokeixo)](https://github.com/xokeixo/github-readme-stats)
