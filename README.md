@@ -1,12 +1,12 @@
 ## Bienvenue, I'm Markeisha👋🏿
 ### Software Developer
 
-###### 👩🏾‍💻Currently working on an app thats very special to me
-###### 📈I'm currently learning data structure and algorithms
-###### 🔓Ask me about anything related to frontend and i'll be happy to assist
-###### 💌Reach me at: markeisha94@gmail.com
+##### 👩🏾‍💻Currently working on an app thats very special to me
+##### 📈I'm currently learning data structure and algorithms
+##### 🔓Ask me about anything related to frontend and i'll be happy to assist
+##### 💌Reach me at: markeisha94@gmail.com
 
-###### Fun Fact: Aside from coding, I enjoy studying astrology and languages
+##### Fun Fact: Aside from coding, I enjoy studying astrology and languages
 
 
 
