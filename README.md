@@ -1,23 +1,13 @@
-### welcome 👋
-#### software developer
+## welcome, i'm markeisha👋🏿
+### software developer
 
 ###### 👩🏾‍💻currently working on an app thats very special to me
 ###### 📈i'm currently learning data structure and algorithms
 ###### 🔓ask me about anything related to frontend and i'll be happy to assist
 ###### 💌reach me at: markeisha94@gmail.com
 
-##### fun fact: aside from coding, i enjoy astrology
+###### fun fact: aside from coding, i enjoy astrology
 
-<--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
